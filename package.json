@@ -1,6 +1,6 @@
 {
-  "name": "iconfont-webpack-plugin",
-  "version": "4.2.2",
+  "name": "@simonbackx/iconfont-webpack-plugin",
+  "version": "4.3.0",
   "description": "Simple icon font handling for webpack",
   "main": "index.js",
   "files": [
@@ -34,7 +34,7 @@
     "html",
     "iconfont"
   ],
-  "author": "Jan Nicklas <j.nicklas@me.com> (https://github.com/jantimon)",
+  "authors": ["Jan Nicklas <j.nicklas@me.com> (https://github.com/jantimon)", "SimonBackx (https://github.com/SimonBackx)"],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jantimon/iconfont-webpack-plugin/issues"
